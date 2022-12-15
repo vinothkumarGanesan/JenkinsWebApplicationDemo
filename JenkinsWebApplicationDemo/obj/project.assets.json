@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VinothKumarGanesan\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+      "projectUniqueName": "D:\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
       "projectName": "JenkinsWebApplicationDemo",
-      "projectPath": "C:\\Users\\VinothKumarGanesan\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+      "projectPath": "D:\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
       "packagesPath": "C:\\Users\\VinothKumarGanesan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VinothKumarGanesan\\source\\repos\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\obj\\",
+      "outputPath": "D:\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
